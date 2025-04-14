@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/3b806b08-6020-4d00-b109-ed3cd63a4c2f)
 ## Hi there 👋
-KYW.guru is **a Revolutionary Open Source Wallet Recovery Solution Using RFID Smart Cards**
+KYW.guru is **a Revolutionary Source-Available Wallet Recovery Solution Using RFID Smart Cards**
 
 ## Introduction
 
@@ -17,6 +17,10 @@ You can find much more info in  [the official website](https://kyw.guru) and you
 ---
 
 ## Contributing
+
+By contributing, you abide to our Source-Available license, namely:  
+KYW Personal Use License, Version 1.0, January 2025 - https://kyw.guru/license  
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION ARE AVAILABLE AT THE OFFICIAL LICENCE LINK ABOVE  
 
 We welcome contributions of any kind, from bug reports to feature enhancements!
 
@@ -58,7 +62,7 @@ For questions or discussions, visit our [GitHub Issues](https://github.com/) sec
 ## Fun Facts
 
 - Our team is powered by caffeine and chocolate croissants.  
-- We believe in open source so much that even our coffee machine firmware is open source (**true story**)!  
+- We believe in source code that you can inspect, run and build for your freedom so much that even our coffee machine firmware is open (**true story**)!  
 - Everyone on the team keeps have a card in their wallet with a recovery share for 1 ETH wallet to let it be loose as they wish on the wild—just to prove we walk the talk. And yeah, you find it, **IF** you can hack it (but __you can't__), you keep it.
 
 ---
